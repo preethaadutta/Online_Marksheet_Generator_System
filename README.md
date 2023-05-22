@@ -51,6 +51,6 @@ Mark sheet generator is a system, through which students can view and download t
 
 
 
-      💖Thank You for opening my repository💖
+                                            💖Thank You for opening my repository💖
 
-       💖Star my repository if You like It💖
+                                             💖Star my repository if You like It💖
