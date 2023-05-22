@@ -45,12 +45,10 @@ Mark sheet generator is a system, through which students can view and download t
 ✔ The database doesn't allow data redundancy.
 
 
-## Author
+## Author👩‍💻
 
 - [@preethaadutta](https://github.com/preethaadutta)
 
+💖Thank You for opening my repository💖
 
-
-                                            💖Thank You for opening my repository💖
-
-                                             💖Star my repository if You like It💖
+ 💖Star my repository if You like It💖
