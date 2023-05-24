@@ -1,4 +1,4 @@
-# Online_Marksheet_Generator_System💻
+# Online_Marksheet_Generator_System📜
 
 Mark sheet generator is a system, through which students can view and download their mark sheet of exam online. It provides a platform, in which teachers can give marks of the student for each subject and this system calculates total percentage of marks and checks whether the student is passed or failed in that exam. After generating mark sheet student can view and download the result. 
 
@@ -68,6 +68,6 @@ Mark sheet generator is a system, through which students can view and download t
 
 - [@preethaadutta](https://github.com/preethaadutta)
 
-💖Thank You for opening my repository💖
+💖 Thank You for opening my repository 💖
 
- 💖Star my repository if You like It💖
+ 💖 Star this repository if You like It 💖
