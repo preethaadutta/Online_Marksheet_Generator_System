@@ -50,7 +50,7 @@ Mark sheet generator is a system, through which students can view and download t
 
 ### Error Page
 
-![Error Page](https://raw.githubusercontent.com/preethaadutta/Online_Marksheet_Generator_System/main/MySQL_Database.jpg)
+![Error Page](https://raw.githubusercontent.com/preethaadutta/Online_Marksheet_Generator_System/main/Page3.jpg)
 
 
 ## Features✨
