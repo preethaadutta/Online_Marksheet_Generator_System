@@ -46,7 +46,7 @@ Mark sheet generator is a system, through which students can view and download t
 
 ### Marksheet Page
 
-![Marksheet Page](https://raw.githubusercontent.com/preethaadutta/Online_Marksheet_Generator_System/main/MySQL_Database.jpg)
+![Marksheet Page](https://raw.githubusercontent.com/preethaadutta/Online_Marksheet_Generator_System/main/Page2.jpg)
 
 ### Error Page
 
